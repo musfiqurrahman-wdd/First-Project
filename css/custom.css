@@ -28,3 +28,19 @@
     border-radius: 2rem;
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
+
+#nav {
+    background: #f9f9f9;
+    margin: 0 0 0 133px;
+    position: fixed;
+    top: 0;
+    background-color: black;
+    height: 51px;
+    display: table;
+    min-width: 100%;
+}
+
+.top-banner {
+    width: 100%;
+    position: relative;
+}
